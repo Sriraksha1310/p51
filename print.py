@@ -1,2 +1,2 @@
 print{"siri")
-print{"raksha"}
+print("raksha")
